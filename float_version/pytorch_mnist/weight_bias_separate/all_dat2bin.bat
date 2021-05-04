@@ -1,0 +1,10 @@
+dat2bin.exe ./conv1_0_bias_t.dat
+dat2bin.exe ./conv1_0_weight_t.dat
+dat2bin.exe ./conv2_0_bias_t.dat
+dat2bin.exe ./conv2_0_weight_t.dat
+dat2bin.exe ./conv3_0_bias_t.dat
+dat2bin.exe ./conv3_0_weight_t.dat
+dat2bin.exe ./dense1_0_bias_t.dat
+dat2bin.exe ./dense1_0_weight_t.dat
+dat2bin.exe ./dense2_0_bias_t.dat
+dat2bin.exe ./dense2_0_weight_t.dat
